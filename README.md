@@ -1,5 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=300&section=header&text=IMFINE&fontSize=90&animation=twinkling&fontColor=FFFFFF)
 
+<h3 align="center">🛠 Tech Stack 🛠</h3>
+
+<p align="center"> Techs that I've used at least once </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">&nbsp
@@ -18,8 +21,12 @@
   <img src="https://img.shields.io/badge/MSSQL-cc2927?style=flat-square&logo=Microsoft%20SQL%20Server&logoColor=white">&nbsp    
   <img src="https://img.shields.io/badge/React-61dafb?style=flat-square&logo=React&logoColor=white">&nbsp    
   <img src="https://img.shields.io/badge/C%23-6db33f?style=flat-square&logo=C%20Sharp&logoColor=white">&nbsp    
-
 </p>
 
+<h3 align="center"> 🏃‍♀️ Me 👩‍💻 </h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Tech Blog-6db33f?style=flat-square&logo=C%20Sharp&logoColor=white">
+</p>
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=300&section=footer&fontSize=90&animation=twinkling&fontColor=FFFFFF)
