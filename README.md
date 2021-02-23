@@ -26,7 +26,7 @@
 <h3 align="center"> 🏃‍♀️ Me 👩‍💻 </h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Tech Blog-6db33f?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@imfine_99">
+  <img src="https://img.shields.io/badge/Tech Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@imfine_99">
 </p>
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=300&section=footer&fontSize=90&animation=twinkling&fontColor=FFFFFF)
